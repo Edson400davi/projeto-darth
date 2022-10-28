@@ -1,0 +1,14 @@
+.container{
+  border: 1px solid red;
+  width: 900px;
+}
+
+
+.nav{
+background-color: #708090;
+}
+.nav{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
